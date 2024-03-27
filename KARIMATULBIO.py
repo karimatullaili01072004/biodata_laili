@@ -1,0 +1,15 @@
+#biodata mahasiswa
+nama=("Karimatullaili")
+alamat=("kemulah")
+nim=("SI20230019")
+semster=("Dua")
+lulusan=("MA DARUL MUHAJIRIN PRAYA")
+umur=int(input("19"))
+
+print("=="*10)
+print("selamat datang:",nama)
+print("tampilkan alamat:",alamat)
+print("masukan NIM:",nim)
+print("tampilkan semster:",semster)
+print("lulusan sekolah:",lukusan)
+print("=="*10)
